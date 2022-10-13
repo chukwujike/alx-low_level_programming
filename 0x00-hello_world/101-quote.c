@@ -8,7 +8,7 @@
 	*
 	* followed by a new line, to the standard error.
 	*
-	* Return Always (Success)
+	* Return: 1 Always (Success)
 	*
 	*
 	*/
